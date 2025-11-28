@@ -1,5 +1,4 @@
-# 1.Hysteria2在Nodejs/Python一键脚本极简部署（Pterodactyl 翼龙面板）
-
+# 1.Hysteria2在Nodejs/Python一键脚本极简部署
 * 更新自适应端口，无需再手动设置
 
 * Hysteria2版本：2.6.5 官方更新说明（原文直译）：
@@ -13,8 +12,7 @@ curl -Ls https://raw.githubusercontent.com/chinascdz2020/tuic-hy2-node.js-python
 
 ---------------------------------------
 
-# 2.TUIC在Nodejs/Python一键脚本极简部署（Pterodactyl 翼龙面板）
-
+# 2.TUIC在Nodejs/Python一键脚本极简部署
 * 自适应端口，无需再手动设置
 
 * TUIC版本：1.4.5 官方更新说明（原文直译）：
