@@ -24,6 +24,6 @@ curl -Ls https://raw.githubusercontent.com/chinascdz2020/Nodejs/refs/heads/main/
       将日志更改为跟踪
 
 ```
-curl -Ls https://raw.githubusercontent.com/chinascdz2020/tuic-hy2-node.js-python/refs/heads/main/tuic.sh | sed 's/\r$//' | bash
+curl -Ls https://raw.githubusercontent.com/chinascdz2020/Nodejs/refs/heads/main/tuic.sh | sed 's/\r$//' | bash
 ```
 
